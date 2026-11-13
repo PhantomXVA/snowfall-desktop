@@ -26,7 +26,7 @@
 ## Установка и запуск
 
 ```bash
-git clone https://github.com/<ваш-аккаунт>/desktop-snow.git
+git clone https://github.com/PhantomXVA/desktop-snow.git
 cd desktop-snow
 pip install -r requirements.txt
 ```
